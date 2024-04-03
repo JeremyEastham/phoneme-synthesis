@@ -1,0 +1,18 @@
+{
+  "name": "phoneme-synthesis",
+  "version": "1.0.0",
+  "description": "A browser-based tool to convert International Phonetic Alpha (IPA) phonetic notation to speech using the [meSpeak.js](http://www.masswerk.at/mespeak/) package",
+  "scripts": {
+    "start": "npx http-server -o ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itinerarium/phoneme-synthesis.git"
+  },
+  "author": "itinerarium",
+  "license": "LGPL-3.0-only",
+  "bugs": {
+    "url": "https://github.com/itinerarium/phoneme-synthesis/issues"
+  },
+  "homepage": "https://github.com/itinerarium/phoneme-synthesis#readme"
+}
